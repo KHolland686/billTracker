@@ -34,3 +34,4 @@ build/
 
 ## Environment variables file
 .env
+MJ_ONLY.env
